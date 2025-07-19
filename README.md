@@ -1,0 +1,2 @@
+# Customer-Segmentation-Personalized-Marketing-Offers-Nespresso-Case-Study-
+I conducted a data science project on customer segmentation and personalized marketing using Nespresso transactional data. Using Python, I cleaned and transformed data, applied k-means clustering to identify four groups, visualized results with PCA and cluster plots, and proposed tailored marketing strategies for each segment.
